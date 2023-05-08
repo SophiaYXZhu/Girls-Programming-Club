@@ -1,2 +1,2 @@
-# GPC
-This repo contains all projects created and published by the SHSID Girl's Programming Club.
+# Girl's Programming Club (GPC)
+This repo contains some small projects created and published by the SHSID Girl's Programming Club.
